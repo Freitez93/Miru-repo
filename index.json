@@ -13,6 +13,19 @@
   "webSite": "https://9animetv.to"
  },
  {
+  "author": "Freitez93",
+  "icon": "https://wow.cinecalidad.gg/wp-content/themes/Cinecalidad/assets/img/favicon.png",
+  "lang": "es",
+  "license": "MIT",
+  "name": "CineCalidad",
+  "nsfw": "false",
+  "package": "cinecalidad",
+  "type": "bangumi",
+  "url": "CineCalidad.js",
+  "version": "v0.1",
+  "webSite": "https://wow.cinecalidad.gg"
+ },
+ {
   "author": "appdevelpo",
   "icon": "https://m.agedm.org/favicon.ico",
   "lang": "zh-cn",
@@ -994,6 +1007,32 @@
   "webSite": "https://www.haha888.xyz"
  },
  {
+  "author": "Freitez93",
+  "icon": "https://pelisplushd.nz/images/logo/favicon.png",
+  "lang": "es",
+  "license": "MIT",
+  "name": "PelisPlusHD.nz",
+  "nsfw": "false",
+  "package": "pelisplushd.nz",
+  "type": "bangumi",
+  "url": "pelisplushd.nz.js",
+  "version": "v0.3",
+  "webSite": "https://pelisplushd.nz"
+ },
+ {
+  "author": "Freitez93",
+  "icon": "https://www17.pelisplushd.to/static/images/logo/favicon.png",
+  "lang": "es",
+  "license": "MIT",
+  "name": "PelisPlusHD.to",
+  "nsfw": "false",
+  "package": "pelisplushd.to",
+  "type": "bangumi",
+  "url": "pelisplushd.to.js",
+  "version": "v0.0.1",
+  "webSite": "https://www17.pelisplushd.to"
+ },
+ {
   "author": "bethro",
   "icon": "https://piped.video/img/icons/android-chrome-192x192.png",
   "lang": "all",
@@ -1028,6 +1067,19 @@
   "package": "porntrex.com",
   "type": "bangumi",
   "url": "porntrex.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://www.porntrex.com"
+ },
+ {
+  "author": "Freitez93",
+  "icon": "https://ptx.cdntrex.com/images/logo.white.png",
+  "lang": "en",
+  "license": "MIT",
+  "name": "PornTrex",
+  "nsfw": "true",
+  "package": "porntrex",
+  "type": "bangumi",
+  "url": "porntrex.js",
   "version": "v0.0.1",
   "webSite": "https://www.porntrex.com"
  },
@@ -1332,6 +1384,19 @@
   "url": "unimay.media.js",
   "version": "v0.0.1",
   "webSite": "https://api.unimay.media"
+ },
+ {
+  "author": "Freitez93",
+  "icon": "https://vercomicsporno.com/wp-content/uploads/Iconx64.png",
+  "lang": "es",
+  "license": "MIT",
+  "name": "VerComicPorno",
+  "nsfw": "true",
+  "package": "vercomicsporno",
+  "type": "manga",
+  "url": "vercomicsporno.js",
+  "version": "v0.2",
+  "webSite": "https://vercomicsporno.com"
  },
  {
   "author": "Moleys",
