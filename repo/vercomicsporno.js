@@ -1,6 +1,6 @@
 // ==MiruExtension==
 // @name         VerComicPorno
-// @version      v0.2
+// @version      v0.0.2
 // @author       Freitez93
 // @lang         es
 // @license      MIT
@@ -103,11 +103,11 @@ export default class extends Extension {
 	}
 
 	async search(kw, page, filter) {
-		let textSearch = (!kw) ? "" : `?s=${kw}`;
+		let textSearch = (!kw) ? "" : `?s=${kw.replaceAll(" ", "+")}`;
 		let searchUrl = `/comics-porno/page/${page}${textSearch}`;
 
 		if (filter) {
-			const isSearch = (!kw) ? `/page/${page}` : ""
+			const isSearch = kw ? "" : `/page/${page}`
 
 			if (filter.mainbar[0]){ //----- Detecto Categorias
 				searchUrl = `/categorias/${filter.mainbar[0]}${isSearch}${textSearch}`
